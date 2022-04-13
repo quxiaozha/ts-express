@@ -31,6 +31,6 @@ export const deleteTodo: RequestHandler<{ id: string }> = (req, res, next) => {
   if (todoIndext < 0) {
     throw new Error("No such todo.");
   }
-  TODOS.slice(todoIndext, 1);
+  TODOS.splice(todoIndext, 1);
   res.status(200).json({ message: "Todo deleted" });
 };
