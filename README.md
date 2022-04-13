@@ -1,12 +1,13 @@
 # ts-express
 A demo CRUD project by ts/express
 --
-1. ```git clone git@github.com:quxiaozha/ts-express.git```
-2. go to the project root director
-3. ```npm install```
-4. ```tsc```
-5. ```npm start```
-6. use postman to test the api
+1. install nodejs: https://nodejs.org/en/
+2. ```git clone git@github.com:quxiaozha/ts-express.git```
+3. go to the project root director
+4. ```npm install```
+5. ```tsc```
+6. ```npm start```
+7. use postman to test the api
 
 | API | Method | Request Body | Response|
 |----|-----|----|----|
