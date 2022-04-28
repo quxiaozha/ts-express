@@ -3,7 +3,7 @@ A demo CRUD project by ts/express
 --
 1. install nodejs: https://nodejs.org/en/
 2. install git and clone the project: ```git clone git@github.com:quxiaozha/ts-express.git```
-3. go to the project root director
+3. go to the project root directory 
 4. ```npm install```
 5. ```tsc```
 6. ```npm start```
